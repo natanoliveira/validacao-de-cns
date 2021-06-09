@@ -1,6 +1,6 @@
 <?php
-$cns = "705.0082.6350.0554";
-$cns = "874 8721 0992 0006";
+$cns = "237 2443 5445 0003";
+$cns = "732 0155 4019 0001";
 
 if (!validaCartaoNacionalSaude($cns)) {
     echo "CNS - Falso";
